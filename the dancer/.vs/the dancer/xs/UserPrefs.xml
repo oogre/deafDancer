@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{661545F1-1CA3-9501-3701-54A46581BDDF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/resize.cs">
+    <Files>
+      <File FileName="Assets/oscReceiver.cs" Line="33" Column="7" />
+      <File FileName="Assets/Osc.cs" Line="268" Column="37" />
+      <File FileName="Assets/resize.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.the_220dancer PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

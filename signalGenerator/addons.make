@@ -1,0 +1,3 @@
+ofxGist
+ofxGui
+ofxOsc
